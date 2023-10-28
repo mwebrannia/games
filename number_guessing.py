@@ -8,10 +8,10 @@ guess = int(input('Enter any number: '))
 while number != guess:
     if guess < number:
         print(guess, small)
-        guess = int(input('Enter number again: '))
+        guess = int(input('try again: '))
     elif guess > number:
         print(guess, large)
-        guess = int(input('Enter number again: '))
+        guess = int(input('try again: '))
     else:
         break
 print('Great,', guess, '=', number)
