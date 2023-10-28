@@ -1,6 +1,6 @@
 # number guessing game
-a computer picks a random number between 1 and 10 then prompt a human player to 
-guess what the picked is by typing in an input box in the terminal.
+a computer picks a random number between 1 & 10 then prompt a human player to 
+guess what the picked is by typing in an input box.
 if the typed number is not the chosen number by the computer counterpart, a human player will receive trials untill s(he) types a correct number.
 
 # snake game
